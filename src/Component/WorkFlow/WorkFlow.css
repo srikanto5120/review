@@ -1,0 +1,24 @@
+.work-flow {
+  border: 1px solid #fff;
+  transition: all 0.5s ease-in-out;
+  padding: 20px 20px;
+}
+.work-flow:hover {
+  border: 1px solid lightblue;
+  background-color: rgb(212, 205, 205);
+}
+.work-flow-icon {
+  width: 50px;
+  border: 1px solid rgb(238, 106, 106);
+  height: 50px;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+.work-flow :hover.work-flow-icon {
+  background-color: royalblue;
+  border-radius: 5px;
+  border: 1px solid #fff;
+}
+.work-icon {
+  padding: 15px;
+}

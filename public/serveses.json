@@ -1,0 +1,38 @@
+[
+    {
+        "key":1,
+        "image":"https://media.istockphoto.com/photos/elearning-online-education-or-internet-encyclopedia-concept-open-and-picture-id1263424631?b=1&k=20&m=1263424631&s=170667a&w=0&h=1Iu9DYwkR77QTLbKp1fC1M9gbJMCyaHoP7u3q1GqiiA=",
+
+        "name":"Education"
+    },
+    {
+        "key":2,
+        "image":"https://image.freepik.com/free-photo/marketing-ideas-share-research-planning-concept_53876-127431.jpg ",
+
+        "name":"Marketing"
+    },
+    {
+        "key":3,
+        "image":"https://image.freepik.com/free-photo/set-origami-paper-art-paintbrush-watercolor-straw-orange-backdrop_23-2148188415.jpg",
+
+        "name":"Craft"
+    },
+    {
+        "key":4,
+        "image":" https://image.freepik.com/free-photo/ux-designers-creative-sketch-planning-application-development-prototype-mobile-application_67155-325.jpg",
+
+        "name":"Programing"
+    },
+    {
+        "key":5,
+        "image":"https://image.freepik.com/free-photo/young-couple-buying-car-car-showroom_1303-15127.jpg",
+
+        "name":"Busineess"
+    },
+    {
+        "key":6,
+        "image":" https://image.freepik.com/free-photo/nurse-measuring-patient-blood-pressure_53876-14933.jpg",
+
+        "name":"Health Care"
+    }
+]

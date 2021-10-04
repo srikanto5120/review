@@ -1,0 +1,30 @@
+.user {
+  align-items: center;
+}
+
+.user-contianer {
+  position: relative;
+}
+.user-ratting {
+  width: 100px;
+  line-height: 8px;
+  text-align: center;
+  background: rgb(240, 232, 232);
+  position: absolute;
+  border-radius: 10px;
+  width: 150px;
+
+  top: 10%;
+  left: 10%;
+}
+.user-active {
+  width: 100px;
+  line-height: 8px;
+  text-align: center;
+  background: rgba(236, 235, 235, 0.349);
+  position: absolute;
+  top: 40%;
+  left: 60%;
+  border-radius: 10px;
+  width: 150px;
+}

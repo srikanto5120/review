@@ -1,0 +1,20 @@
+.single-card {
+  border: 1px solid #fff;
+  transition: all 0.3s ease-in;
+  padding: 0;
+}
+.single-card:hover {
+  border: 1px solid lightblue;
+  transform: translate(3px, -4px);
+  border-radius: 15px;
+  box-shadow: -6px 0px 8px rgb(218, 209, 209);
+}
+.icon {
+  font-size: 10px;
+  color: rgb(243, 178, 56);
+}
+.category {
+  background-color: rgba(247, 173, 77, 0.611);
+  margin-top: 3px;
+  color: rgb(20, 18, 18);
+}
